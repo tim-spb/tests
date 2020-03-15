@@ -1,0 +1,2 @@
+CREATE DATABASE tasks_db;
+GRANT ALL PRIVILEGES ON DATABASE tasks_db TO postgres;
